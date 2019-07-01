@@ -1,0 +1,14 @@
+.sign-out {
+  display: block;
+  font-family: raleway;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #4e002d;
+  padding: 25px 20px;
+  transition: all 0.5s ease 0s;
+  text-decoration: none;
+}
+
+.sign-out:hover {
+  color: #ff0061;
+}
